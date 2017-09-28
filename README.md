@@ -1,6 +1,6 @@
 # Bluetooth Low Energy in iOS Swift
 
-## Chapter 9: Notifications
+## Chapter 9: Using Notifications
 
 
 These are **complete downloadable code examples** from my book, _Bluetooth Low Energy with iOS Swift_.  The book teaches how to make Bluetooth Low Energy devices using iOS/Swift.  
